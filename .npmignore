@@ -1,0 +1,6 @@
+.*
+*.tgz
+*.zip
+/src
+/tsconfig.json
+/userDataDir
